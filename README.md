@@ -64,8 +64,7 @@ Al final, imprime cuánta energía le queda al jugador.
 2. Se venden **30 unidades** (`-=`).
 3. Se aplica una oferta **"Compra 1 y llévate otro gratis"** (`*=` por `2`).
 4. Se distribuyen las unidades entre **5 almacenes** (`/=`).
-5. Se asignan los productos restantes al área de **descuentos** usando `%=` con `6`.
-
+5. Se asignan los productos restantes al área de **descuentos** usando `%=` con `6`gig
 Al final, muestra cuántas unidades quedan disponibles en cada área de almacenamiento y en descuentos.
 
 ------
