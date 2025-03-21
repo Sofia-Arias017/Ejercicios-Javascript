@@ -141,7 +141,7 @@ Importante: para que puedas enlistar las opciones de películas una debajo de ot
 
 ------
 
-# 7. Estructura `switch`: [Solucion en la rama Estructura-`switch](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Estructura-`switch`)
+# 7. Estructura `switch`: [Solucion en la rama Estructura-switch](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Estructura-switch)
 
 ## **Días de la Semana con `switch`**
 
