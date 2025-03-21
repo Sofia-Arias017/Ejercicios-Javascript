@@ -70,7 +70,7 @@ Al final, muestra cuántas unidades quedan disponibles en cada área de almacena
 
 ------
 
-# 3. Operadores Lógicos: [Solucion en la rama Operadores-Logicos](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Operadores-Logicos)
+# 3. Operadores Logicos: [Solucion en la rama Operadores-Logicos](https://github.com/Sofia-Arias017/Ejercicios-Javascript/tree/operadores-logicos)
 
 ## **Tragos a tomado.**
 
@@ -93,7 +93,7 @@ Importante: para que puedas enlistar las opciones de películas una debajo de ot
 
 ------
 
-# 4. Operadores de Comparación: [Solucion en la rama Operadores-de-Comparacion](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Operadores-de-Comparacion)
+# 4. Operadores de Comparacion: [Solucion en la rama Operadores-de-Comparacion](https://github.com/Sofia-Arias017/Ejercicios-Javascript/tree/operadores-de-comparacion)
 
 ## **Comparación de Números**
 
@@ -109,7 +109,7 @@ Importante: para que puedas enlistar las opciones de películas una debajo de ot
 
 ------
 
-# 5. Estructuras de Decisión: [Solucion en la rama Estructuras-de-Decision](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Estructuras-de-Decision)
+# 5. Estructuras de Decision: [Solucion en la rama Estructuras-de-Decision](https://github.com/Sofia-Arias017/Ejercicios-Javascript/tree/estructuras-de-decision)
 
 ## **Clasificación del Clima según la Temperatura**
 
@@ -129,7 +129,7 @@ Importante: para que puedas enlistar las opciones de películas una debajo de ot
 
 ------
 
-# 6. Operador Ternario: [Solucion en la rama Operador-Ternario](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Operador-Ternario)
+# 6. Operador Ternario: [Solucion en la rama Operador-Ternario](https://github.com/Sofia-Arias017/Ejercicios-Javascript/tree/operador-ternario)
 
 ## **Verificador de Paridad con Operador Ternario**
 
@@ -141,7 +141,7 @@ Importante: para que puedas enlistar las opciones de películas una debajo de ot
 
 ------
 
-# 7. Estructura `switch`: [Solucion en la rama Estructura-`switch](https://github.com/Sofia-Arias017/Ejercicios-Javascriptt/tree/Estructura-`switch`)
+# 7. Estructura switch: [Solucion en la rama Estructura-switch](https://github.com/Sofia-Arias017/Ejercicios-Javascript/tree/estructura-switch)
 
 ## **Días de la Semana con `switch`**
 
